@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body{
  width:1200px;
  margin:0 auto;
@@ -83,7 +84,7 @@ width:1200px;
 background:black;
 margin-bottom:20px;
 
-margin-left: 0px; /* Отступ слева */
+margin-left: 0px; /* ГЋГІГ±ГІГіГЇ Г±Г«ГҐГўГ  */
 
 }
 IMG.fig1 {
@@ -101,5 +102,5 @@ IMG.fig3 {
      padding-top: 15px; 
    }
 
-h1 {color: black; font-style:inherit;background-image: url(принт.png); text-align:center; font-size: 18pt;}
+h1 {color: black; font-style:inherit;background-image: url(ГЇГ°ГЁГ­ГІ.png); text-align:center; font-size: 18pt;}
 h2 {color: white; font-style: italic; text-align:center; font-size: 12p
