@@ -1,0 +1,219 @@
+﻿@charset "UTF-8";
+/* This CSS File was created by www.pixelateddesign.co.uk */
+/* This is free if you have purchased this templete please contact us useign the email */
+/* info@pixelateddesign.co.uk along with the amount you payed for your website */
+
+/* This file remains property of www.pixelateddesign.co.uk however this is free to use for personal use */
+body {
+	margin:0px;
+	padding:0px;
+	background-attachment: scroll;
+	background-image: url(../images/background.jpg);
+	background-position: left top;
+}
+
+#content_container {
+    margin-top:150px;
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	height: 700px;
+	background-attachment: scroll;
+	background-image: url(../images/3d.jpg);
+	background-repeat: no-repeat;
+	background-position:right center;
+}
+#css-menu ul {
+list-style: none;
+font-family: Georgia, serif;
+font-size: 18px;
+font-style: italic;
+line-height: 1.4em;
+border:2px solid #000000;
+border-left: 1px solid #000000;
+float: left;
+padding: 0;
+margin: 12px 0 25px 24px
+}
+
+#css-menu ul li {
+float: left
+}
+
+#css-menu ul li a {
+display: block;
+text-decoration: none;
+background-color: #595959;
+padding: 5px 10px 0 10px;
+color: #fefefe;
+width: 120px;
+border-right: 1px solid #797979;
+border-left: 1px solid #191919
+}
+
+#css-menu ul li a span {
+display: block
+}
+
+#css-menu ul li a span.text-top {
+border-bottom: 1px solid #595959
+}
+
+#css-menu ul li a:hover span.text-top {
+border-bottom: 1px dashed #fefefe;
+color: #ffddbb
+}
+
+#css-menu ul li a span.text-bottom {
+visibility: hidden;
+font-size: 11px;
+text-align: right
+}
+
+#css-menu ul li a:hover span.text-bottom {
+visibility: visible 
+}
+
+
+
+#logo_container {
+	height:90px;
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#main_container {
+	height:90px;
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#logo_image {
+	width:1000px;
+	height:250px;
+	margin-left:10px;
+	margin-top:15px;
+	float:left;
+	background-image: url(../images/logo.jpg);
+}
+
+#top_bar_black {
+	width:100%;
+	height:90px;
+	background-color:#000000;
+}
+
+#bottom_bar_black {
+	width:100%;
+	height:160px;
+	background-color:#000000;
+}
+
+#nav_block {
+  margin : 0 auto;
+    width:400px;
+	height:90px;
+	background-color:#000000;
+    margin-top:30px;
+	width: 400px;
+	height:90px;
+	float:right;
+}
+
+.nav_button {
+	width: 90px; 
+	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin-left:5px;
+	margin-top:35px;
+	text-align:center;
+	float:left;
+}
+
+.nav_button:link {
+	text-decoration:none;
+}
+
+.nav_button:hover {
+	text-decoration:none;
+	background-color:#333333;
+}
+
+#header {
+    background-color:white;
+    font-size:12px;
+	width:500px;
+	margin-top:30px;
+	margin-bottom:30px;
+	float: left;
+}
+
+.header_content_mainline {
+	font-size:18px;
+	color:#000000;
+	width:500px;
+	font-style: italic;
+}
+
+#header_content_boxline {
+	font-size:35px;
+	color:#000000;
+	width:400px;
+	font-style: italic;
+}
+
+#header_content_lowerline {
+	font-size:35px;
+	color:#FFFFFF;
+	width:400px;
+	font-style: italic;
+}
+
+#header_content_boxcontent {
+    padding: 5px;
+	font-size:18px;
+	color:#333333;
+	width:300px;
+	font-style: italic;
+}
+
+#header_content_lowerboxcontent {
+	font-size:12px;
+	color:#CCCCCC;
+	width:300px;
+}
+
+#header_content_tagline {
+	font-size:12px;
+	color:#333333;
+	width:500px;
+}
+
+#header_lower {
+background-image: url(../images/принт.png);
+width:340px;
+float:right;
+margin-right:10px;
+margin-top:10px;
+}
+
+#header_lower2 {
+	width:340px;
+	float:left;
+	margin-right:10px;
+}
+
+#copywriteblock {
+	margin-left:auto;
+	margin-right:auto;
+	width: 900px;
+	color:#333333;
+	font-size:10px;
+	margin-top:10px;
+	
+	text-decoration:none;
+	margin-bottom:10px;
+}
