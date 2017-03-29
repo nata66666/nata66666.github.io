@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body{
  width:1200px;
  margin:0 auto;
@@ -83,23 +84,23 @@ width:1200px;
 background:black;
 margin-bottom:20px;
 
-margin-left: 0px; /* Отступ слева */
+margin-left: 0px; /* ГЋГІГ±ГІГіГЇ Г±Г«ГҐГўГ  */
 
 }
 IMG.fig1 {
-    float: right; /* Обтекание картинки по левому краю */
-    padding-left: 12px; /* Отступ слева */
-    padding-bottom: 5px; /* Отступ снизу */
+    float: right; /* ГЋГЎГІГҐГЄГ Г­ГЁГҐ ГЄГ Г°ГІГЁГ­ГЄГЁ ГЇГ® Г«ГҐГўГ®Г¬Гі ГЄГ°Г Гѕ */
+    padding-left: 12px; /* ГЋГІГ±ГІГіГЇ Г±Г«ГҐГўГ  */
+    padding-bottom: 5px; /* ГЋГІГ±ГІГіГЇ Г±Г­ГЁГ§Гі */
    }
 IMG.fig2 {
-    float: left; /* Обтекание картинки по левому краю */
-    padding-left: 7,5 px; /* Отступ слева */
+    float: left; /* ГЋГЎГІГҐГЄГ Г­ГЁГҐ ГЄГ Г°ГІГЁГ­ГЄГЁ ГЇГ® Г«ГҐГўГ®Г¬Гі ГЄГ°Г Гѕ */
+    padding-left: 7,5 px; /* ГЋГІГ±ГІГіГЇ Г±Г«ГҐГўГ  */
    padding-right: 12px; 
-    padding-bottom: 5px; /* Отступ снизу */
+    padding-bottom: 5px; /* ГЋГІГ±ГІГіГЇ Г±Г­ГЁГ§Гі */
    }
 IMG.fig3 {
-     padding-top: 15px; /* Отступ снизу */
+     padding-top: 15px; /* ГЋГІГ±ГІГіГЇ Г±Г­ГЁГ§Гі */
    }
 
-h1 {color: black; font-style:inherit;background-image: url(принт.png); text-align:center; font-size: 18pt;}
+h1 {color: black; font-style:inherit;background-image: url(ГЇГ°ГЁГ­ГІ.png); text-align:center; font-size: 18pt;}
 h2 {color: white; font-style: italic; text-align:center; font-size: 12p
